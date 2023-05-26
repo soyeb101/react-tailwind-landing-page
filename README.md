@@ -8,4 +8,4 @@ This is a free landing page template built on top of TailwindCSS and fully coded
 
 Watch Live Site
 
-https://tailwind-ui-design.netlify.app/
+https://6470d3927d72c8175e433a6e--dazzling-gumdrop-44cec7.netlify.app/
